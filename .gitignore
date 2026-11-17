@@ -1,0 +1,8 @@
+**/.vs/
+**/x64/
+**/Debug/
+**/Release/
+*.user
+users.txt
+ranks.txt
+备份/
